@@ -1,4 +1,4 @@
-# Hi there 👋 It's me **Karthick** !
+# Hi there 👋 It's me *Karthick* !
 
 **Software Developer** @ <img width="50" height="50" src="https://img.icons8.com/nolan/64/ibm.png" align="center" style="margin-top: 10px;"/>
 <img align="right" width="370" height="290" src="https://github.com/Karthickkumarm/Karthickkumarm/blob/main/marginalia-a-person-sitting-in-front-of-a-computer-screen.gif?raw=true">
