@@ -1,8 +1,7 @@
 ## Hi there 👋 It's me Karthick !
 
 Software Engineer @ IBM
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">    
-Illustration by <a href="https://icons8.com/illustrations/author/HxMFjfKZdNq2">Rosina Gavrilash</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+<img align="right" width="370" height="290" src="https://drive.google.com/file/d/1AqhZ3Sr0JizCsOt24HDC16NkTlvTs75c/view?usp=sharing">
 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Full-stack Development
