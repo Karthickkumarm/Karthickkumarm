@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me **Karthick** !
 
-**Software Engineer** @ IBM <img height="50" width="50" src="https://w7.pngwing.com/pngs/561/870/png-transparent-logo-ibm-graphic-design-ibm-text-logo-computer-wallpaper-thumbnail.png">
+**Software Engineer** @ <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/ibm.png" alt="ibm"/>
 <img align="right" width="370" height="290" src="https://github.com/Karthickkumarm/Karthickkumarm/blob/main/marginalia-a-person-sitting-in-front-of-a-computer-screen.gif?raw=true">
 
 - 🌱 I’m currently learning DSA
