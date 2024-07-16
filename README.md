@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Karthick !
 
 Software Engineer @ IBM
-<img align="right" width="370" height="290" src="https://drive.google.com/file/d/1AqhZ3Sr0JizCsOt24HDC16NkTlvTs75c/view?usp=sharing">
+<img align="right" width="370" height="290" src="https://github.com/Karthickkumarm/Karthickkumarm/blob/main/coworking-male-programmer-writing-program-code.gif?raw=true">
 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Full-stack Development
