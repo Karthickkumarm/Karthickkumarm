@@ -1,16 +1,17 @@
 ## Hi there 👋 It's me Karthick !
 
 Software Engineer @ IBM
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                             
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">        
+
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Full-stack Development
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthickkumar-m-6887641b3)
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <a target="_blank" href="https://icons8.com/icon/Rc0Xn5AtE8kX/python">Python</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
