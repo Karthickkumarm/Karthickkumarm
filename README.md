@@ -11,7 +11,7 @@ Software Engineer @ IBM
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthickkumar-m-6887641b3)
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <a target="_blank" href="https://icons8.com/icon/Rc0Xn5AtE8kX/python">Python</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/python.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
