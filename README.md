@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Karthick !
 
-**Software Developer @** <img width="50" height="50" src="https://cdn.freebiesupply.com/images/large/2x/ibm-logo-white.png" align="center" />
+**Software Developer @** <img width="70" height="40" src="https://cdn.freebiesupply.com/images/large/2x/ibm-logo-white.png" align="center" />
 <img align="right" width="370" height="290" src="https://github.com/Karthickkumarm/Karthickkumarm/blob/main/marginalia-a-person-sitting-in-front-of-a-computer-screen.gif?raw=true">
 
 - 🌱 I’m currently learning DSA
