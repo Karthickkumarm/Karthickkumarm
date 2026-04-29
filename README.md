@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Karthickkumar+!;Fullstack+Developer+%7C+SDE+II;Spring+Boot+%2B+Next.js+%7C+AI+Builder;Turning+logic+into+elegant+code+..." alt="Karthick Kumar" />
 </h1>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=karthickkumarm&label=Profile+Views&color=6E40C9&style=flat-square" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/karthickkumar-m-6887641b3">
@@ -40,6 +41,7 @@
 </td>
 </tr>
 </table>
+
 ---
 
 ### 🛠️ Tech Stack
