@@ -16,20 +16,30 @@
 
 ---
 
-<img align="right" width="320" src="https://github.com/Karthickkumarm/Karthickkumarm/blob/main/marginalia-a-person-sitting-in-front-of-a-computer-screen.gif?raw=true" />
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ### 👨‍💻 About Me
 
-- 🚀 Engineering core features for the **Pyro AI** platform  
-  &nbsp;&nbsp;&nbsp;<img height="22" src="https://mma.prnewswire.com/media/2597243/L_Rocket_RGB_Logo.jpg?p=publish" />
-- 🏗️ Specialist in **Spring Boot 3 Microservices** & **Next.js** orchestration
-- 🌱 Deep diving into **Advanced DSA** and **System Design**
-- 🤖 Passionate about **AI-powered products** and scalable backend architecture
-- 💡 Believer in clean code, DDD, and event-driven design
-- 📍 Based in **Chennai, India**
+![SDE II](https://img.shields.io/badge/SDE_II-Rocket_Companies-ED1C24?style=flat-square&logo=rocket&logoColor=white)
+![Open To Collaborate](https://img.shields.io/badge/Open_To-Collaborate-6E40C9?style=flat-square)
 
-<br clear="right"/>
+> Building intelligent systems at the intersection of **AI** and **scalable architecture**
 
+- 🔥 Engineering core features for **Pyro AI** — an AI-first platform
+- 🏗️ Crafting **Spring Boot 3 microservices** with event-driven design
+- ⚡ Orchestrating seamless UX with **Next.js** on the frontend
+- 🧠 Levelling up in **Advanced DSA** & **System Design** daily
+- 💡 Strong advocate of **Clean Code**, **DDD**, and **SOLID** principles
+- 📍 Chennai, India
+
+</td>
+<td valign="top" width="45%">
+<img src="https://github.com/Karthickkumarm/Karthickkumarm/blob/main/marginalia-a-person-sitting-in-front-of-a-computer-screen.gif?raw=true" width="100%" />
+</td>
+</tr>
+</table>
 ---
 
 ### 🛠️ Tech Stack
