@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Karthick !
 
-**Software Developer @** <img width="70" height="40" src="https://www.prnewswire.com/news-releases/rocket-companies-unifies-under-the-rocket-brand-with-new-visual-identity-302350476.html" align="center" />
+**Software Developer @** <img width="70" height="40" src="https://mma.prnewswire.com/media/2597243/L_Rocket_RGB_Logo.jpg?p=publish" align="center" />
 <img align="right" width="370" height="290" src="https://github.com/Karthickkumarm/Karthickkumarm/blob/main/marginalia-a-person-sitting-in-front-of-a-computer-screen.gif?raw=true">
 
 - 🌱 I’m currently learning DSA
